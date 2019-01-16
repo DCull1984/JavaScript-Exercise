@@ -21,7 +21,7 @@ function personInput(){
 		alert("Please enter your job");
 		return false;
 		}
-		
+	
 	document.cookie = name + ", " + age + ", " + occupation;
 	}
 
